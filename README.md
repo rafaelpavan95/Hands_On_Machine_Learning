@@ -1,6 +1,6 @@
 # Hands_On_Machine_Learning
 
-Repositório para atividades do livro: **SQL Cookbook** da editora O'Reilly
+Repositório para atividades do livro: **Hands-On Machine Learning with Scikit-Learn, Keras and Tensorflow** da editora O'Reilly
 
 
 ## Hands On Machine Learning:
