@@ -9,3 +9,5 @@ Repositório para atividades do livro: **Hands-On Machine Learning with Scikit-L
 
 ### + Capítulo 2: [End-To-End Machine Learning Project](https://github.com/rafaelpavan95/Hands_On_Machine_Learning/blob/main/Chapter_2.ipynb)
 
+### + Capítulo 3: [Classification](https://github.com/rafaelpavan95/Hands_On_Machine_Learning/blob/main/Chapter_3.ipynb)
+
