@@ -13,3 +13,6 @@ Repositório para atividades do livro: **Hands-On Machine Learning with Scikit-L
 
 ### + Capítulo 4: [Training Models](https://github.com/rafaelpavan95/Hands_On_Machine_Learning/blob/main/Chapter_4.ipynb)
 
+### + Capítulo 6: [Decision Trees](https://github.com/rafaelpavan95/Hands_On_Machine_Learning/blob/main/Chapter_6.ipynb)
+
+
