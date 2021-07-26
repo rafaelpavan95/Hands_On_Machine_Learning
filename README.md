@@ -19,4 +19,6 @@ Repositório para atividades do livro: **Hands-On Machine Learning with Scikit-L
 
 ### + Capítulo 7: [Ensemble Learning](https://github.com/rafaelpavan95/Hands_On_Machine_Learning/blob/main/Chapter_7.ipynb)
 
+### + Capítulo 8: [Dimensionality Reduction](https://github.com/rafaelpavan95/Hands_On_Machine_Learning/blob/main/Chapter_8.ipynb)
+
 
