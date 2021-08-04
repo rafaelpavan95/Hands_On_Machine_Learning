@@ -23,4 +23,6 @@ Repositório para atividades do livro: **Hands-On Machine Learning with Scikit-L
 
 ### + Capítulo 9: [Unsupervised Learning](https://github.com/rafaelpavan95/Hands_On_Machine_Learning/blob/main/Chapter_9.ipynb)
 
+### + Capítulo 10: [Introduction to Artificial Neural Networks](https://github.com/rafaelpavan95/Hands_On_Machine_Learning/blob/main/Chapter_10.ipynb)
+
 
